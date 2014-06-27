@@ -46,8 +46,7 @@ video#bgvid {
 }
 
 .twitter-div {
-  bottom: 0px;
   position: relative;
   bottom: -410px;
-  z-index: -1000;
+background-color: gray;
 }
