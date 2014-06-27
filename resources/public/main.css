@@ -42,4 +42,12 @@ video#bgvid {
   width: 100%;
   height: auto;
   z-index: -1000;
-  overflow: hidden; }
+  overflow: hidden;
+}
+
+.twitter-div {
+  bottom: 0px;
+  position: relative;
+  bottom: -410px;
+  z-index: -1000;
+}
